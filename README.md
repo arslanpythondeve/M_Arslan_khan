@@ -48,7 +48,7 @@ I love turning complex problems into clean, efficient, and scalable solutions.
 
 ## Connect With Me
 
-Email: m.arslankhan655@gmail.com  
+Email: arslanpythondeve@gmail.com 
 LinkedIn: https://www.linkedin.com/in/arslan-khan-a60679356/
 
 Always learning. Always building.
