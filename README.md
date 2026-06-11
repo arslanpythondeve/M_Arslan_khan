@@ -1,6 +1,6 @@
 # Hi, I'm Arslan Khan
 
-## Python Backend Developer | Web Scraping & Automation Specialist
+## Python Backend Developer | Django & FastAPI & Django RestAPI| Web Scraping & Automation Specialist
 
 I am a passionate Python developer specializing in web scraping, automation, and backend development.  
 I love turning complex problems into clean, efficient, and scalable solutions.
