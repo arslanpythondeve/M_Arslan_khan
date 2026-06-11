@@ -42,10 +42,6 @@ I love turning complex problems into clean, efficient, and scalable solutions.
 - Backend Systems with Django & FastAPI
 - Database-Driven Applications
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslanpythondeve&show_icons=true&theme=default)
-
 ## Connect With Me
 
 Email: arslanpythondeve@gmail.com 
